@@ -6,8 +6,7 @@ This project is a comprehensive analysis of the "Super Store" retail dataset. It
 [cite_start]The project is built using the **Power BI Project (.pbip)** format, which allows for better version control and tracking of the report and semantic model metadata.
 
 ## 🖼️ Dashboard Preview
-(Screenshot 2026-02-06 005250)
-*(Note: To make this show up, take a screenshot of your dashboard and save it as 'preview.png' in the same folder as this README)*
+(https://github.com/abdullah5448/Super-Store-data-analysis-project/blob/main/Screenshot%202026-02-06%20005250.png?raw=true)
 
 ## 🛠️ Key Features
 - **Dynamic KPIs:** Real-time tracking of Total Sales, Profit Margins, and Order Volume.
